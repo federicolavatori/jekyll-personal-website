@@ -39,6 +39,8 @@ defaults:
       type: "seasons"
     values:
       layout: "season"
+theme: jekyll-theme-slate
+#theme: minimal-mistakes-jekyll
 
 gems:
   - octopress-paginate
