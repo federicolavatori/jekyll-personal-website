@@ -10,32 +10,15 @@ _site/
 .ruby-version
 *.gem
 Gemfile.lock
-Gemfile
 
 # Files
 .analysis
 .DS_Store
 *.swp
-categories.md
-edge-case.md
-favicon.ico
-favicon.png
-images/
-index.html
-markup.md
-posts.md
-recipes.md
-search.md
-sosimple/
-tags.md
-theme-setup.md
+*~
+
 
 # Folders
-_data/
-_includes/
-_posts/
-_recipes/
-_imgaes/
 /vendor
 bbin/
 bin/
