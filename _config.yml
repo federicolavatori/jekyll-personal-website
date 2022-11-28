@@ -19,7 +19,7 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
 title: "Federico Lavatori"
-description: "A data scientist based in Milan, Italy"
+description: "👋 Hi there!"
 baseurl: ""
 url: ""
 logo: "/images/so-simple-site-logo.png"
