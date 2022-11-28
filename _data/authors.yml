@@ -13,3 +13,12 @@ Cornelius Fiddlebone:
   name: Cornelius Fiddlebone
   picture: /images/bio-photo.jpg
   twitter: corneliusfiddlebone
+
+Federico Lavatori:
+  name: Federico lavatori
+  picture: /images/fl-profile-pic.jpeg
+  twitter: "@f_lavatori"
+  links:
+    - title: Twitter
+      url: https://twitter.com/f_lavatori
+      icon: fab fa-twitter-square
