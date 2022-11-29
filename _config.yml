@@ -19,7 +19,7 @@ remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
 title: "Federico Lavatori"
-description: "👋 Hi there!"
+description: "Slightly better. Slightly better. Slightly better"
 baseurl: ""
 url: ""
 logo: "/images/fl-profile-pic.jpeg"
@@ -114,33 +114,39 @@ author:
   email:
   twitter: mmistakes
   links:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/federico-lavatori-0367a5bb/
+      icon: fab fa-linkedin
+    - title: Medium
+      url: https://medium.com/@federico.lavatori
+      icon: fab fa-medium
+    - title: GitHub
+      url: https://github.com/federicolavatori
+      icon: fab fa-github-square
     - title: Twitter
       url: https://twitter.com/f_lavatori
       icon: fab fa-twitter-square
     - title: Instagram
       url: https://www.instagram.com/federico.lavoratori/
       icon: fab fa-instagram
-    - title: GitHub
-      url: https://github.com/federicolavatori
-      icon: fab fa-github-square
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/federico-lavatori-0367a5bb/
-      icon: fab fa-fw fa-linkedin
 
 # Footer Links
 footer_links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/federico-lavatori-0367a5bb/
+    icon: fab fa-linkedin
+  - title: Medium
+    url: https://medium.com/@federico.lavatori
+    icon: fab fa-medium
+  - title: GitHub
+    url: https://github.com/federicolavatori
+    icon: fab fa-github-square
   - title: Twitter
     url: https://twitter.com/f_lavatori
     icon: fab fa-twitter-square
   - title: Instagram
     url: https://www.instagram.com/federico.lavoratori/
     icon: fab fa-instagram
-  - title: GitHub
-    url: https://github.com/federicolavatori
-    icon: fab fa-github-square
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/federico-lavatori-0367a5bb/
-    icon: fab fa-fw fa-linkedin
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
