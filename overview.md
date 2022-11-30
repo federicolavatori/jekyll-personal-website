@@ -1,6 +1,6 @@
 ---
 title: "About me"
-layout: home
+layout: collection
 permalink: /
 show_excerpts: false
 entries_layout: list
