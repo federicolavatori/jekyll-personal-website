@@ -8,6 +8,6 @@ tags:
 last_modified_at: 2022-07-14T00:00:00-00:00
 ---
 
-Last weekend I passed the Data Engineer Associate exam, and I'd like to share my learning journey to help you prepare the exam with tips and tricks.
+If you are a data analyst/scientist/engineer working with people in business/marketing/finance/operations frequently asking you for very urgent extractions iteratively, then you are probably in the right place.
 
 You can find the full article on [Medium](https://medium.com/@federico.lavatori)

@@ -1,8 +1,8 @@
 ---
-title: "Overview"
+title: "About me"
 layout: home
 permalink: /
-show_excerpts: true
+show_excerpts: false
 entries_layout: list
 ---
 
