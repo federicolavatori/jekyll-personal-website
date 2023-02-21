@@ -6,6 +6,6 @@ collection: frameworks
 entries_layout: list
 ---
 
-An exhaustive list of frameworks I refer to when structuring and solving problems in a broad sepctrum of areas like data science, product management, strategy and mental health
+An exhaustive list of frameworks I refer to when structuring and solving problems in a broad spectrum of areas like data science, product management, strategy and mental health
 
 
