@@ -1,14 +1,12 @@
 ---
-title: "About me"
+title: "About"
 layout: collection
 permalink: /
 show_excerpts: false
 entries_layout: list
 ---
-Hi there! 👋
+👋 Hi there!
 
-My name  is Federico and I am currently working as a data scientist and data engineer at [Hype](https://www.hype.it/) with a particular focus on product innovation
+I'm Federico, a versatile professional who's been diving into different roles from business to data analysis.
 
-A keen interest in product management, ownership and strategy has recently pervaded me and I guess it's here to stay.
-
-Hit me up for collabs, job opportunities or if you just want to have a follow-up discussion on posts and frameworks I discussed here
+Hit me up for collabs, job opportunities, or follow-up discussions on posts and frameworks explored here!
