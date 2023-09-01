@@ -25,7 +25,7 @@ baseurl: ""
 url: ""
 logo: "/images/fl-profile-pic.jpeg"
 date_format: "%B %-d, %Y"
-read_time: true
+read_time: false
 words_per_minute: # 200
 mathjax:
   enable: true
@@ -88,6 +88,9 @@ collections:
   frameworks:
     output: true
     permalink: /:collection/:path/
+  bookshelf:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -103,6 +106,14 @@ defaults:
   - scope:
       path: "_frameworks"
       type: frameworks
+    values:
+      layout: post
+      comments: true
+      share: true
+  # Bookshelf defaults
+  - scope:
+      path: "_bookshelf"
+      type: bookshelf
     values:
       layout: post
       comments: true
