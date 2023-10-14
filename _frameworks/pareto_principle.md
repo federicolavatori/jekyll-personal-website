@@ -1,5 +1,5 @@
 ---
-title: "Pareto Principle: 80:20 Rule"
+title: "Pareto Principle (80:20 Rule)"
 tags:
   - Strategy
   - Consulting
