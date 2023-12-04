@@ -6,6 +6,6 @@ tags:
 last_modified_at: 2023-12-04T00:00:00-00:00
 ---
 
-Do you struggle to find your way at work? You are not alone. According to recent studies, job satisfaction is rising, but there is still a fair amount of people unsatisfied with their roles or workplaces.
+The goal of the research report is to study both the visible and the hidden mechanisms of platforms and to document the evolution of the labour concept underlying the platform economy.
 
 You can find the full article on [Medium](https://medium.com/@federico.lavatori)
