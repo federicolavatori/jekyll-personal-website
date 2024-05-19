@@ -88,9 +88,9 @@ collections:
   frameworks:
     output: true
     permalink: /:collection/:path/
-  bookshelf:
-    output: true
-    permalink: /:collection/:path/
+  # bookshelf:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -111,13 +111,13 @@ defaults:
       comments: true
       share: true
   # Bookshelf defaults
-  - scope:
-      path: "_bookshelf"
-      type: bookshelf
-    values:
-      layout: post
-      comments: true
-      share: true
+  # - scope:
+  #     path: "_bookshelf"
+  #     type: bookshelf
+  #   values:
+  #     layout: post
+  #     comments: true
+  #     share: true
 
 # Site Author
 author:
