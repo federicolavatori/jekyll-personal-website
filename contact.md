@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact Me"
 layout: collection
 permalink: /contact/
 show_excerpts: false
