@@ -7,6 +7,9 @@
 #   url: /categories/
 - title: Content
   url: /content/
+  subpages:
+    - title: Posts
+      url: /content/posts/
 - title: Frameworks
   url: /frameworks/
 - title: Bookshelf

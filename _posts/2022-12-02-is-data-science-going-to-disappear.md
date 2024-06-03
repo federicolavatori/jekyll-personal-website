@@ -2,9 +2,9 @@
 title: "Is Data Science going to disappear in 2023? Future and career perspective for aspiring data professionals"
 tags:
   - Data Science
-  - Staff Engineering
+  - Data Engineering
   - Product Management
-  - Career
+  - Career Growth
 last_modified_at: 2022-12-02T00:00:00-00:00
 ---
 

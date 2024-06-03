@@ -2,7 +2,7 @@
 title: "Decoding Academia vs Industry: A Comprehensive Analysis of Work Patterns, Audiences, and Metrics"
 tags:
   - Personal Development
-  - Career
+  - Career Growth
 last_modified_at: 2023-12-29T00:00:00-00:00
 ---
 

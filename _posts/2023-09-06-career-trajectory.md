@@ -2,7 +2,7 @@
 title: "Career trajectory: proceed by exclusion and be product-centric"
 tags:
   - Personal Development
-  - Career
+  - Career Growth
   - Mental Health
 last_modified_at: 2023-09-06T00:00:00-00:00
 ---

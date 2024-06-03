@@ -1,7 +1,7 @@
 ---
 title: "Studying the heterogeneous landscape of digital platforms economy"
 tags:
-  - Platform
+  - Platform Culture
   - Platform Economy
 last_modified_at: 2023-12-04T00:00:00-00:00
 ---

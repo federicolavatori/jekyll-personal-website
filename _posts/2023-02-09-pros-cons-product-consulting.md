@@ -1,7 +1,7 @@
 ---
 title: "Pros and cons of working as a data professional in consulting or a product company"
 tags:
-  - Career
+  - Career Growth
   - Mental Health
 last_modified_at: 2023-02-09T00:00:00-00:00
 ---

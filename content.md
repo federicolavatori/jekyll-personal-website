@@ -1,5 +1,5 @@
 ---
-title: Posts Archive
+title: Articles Archive
 layout: tags
 permalink: /content/
 show_excerpts: true
